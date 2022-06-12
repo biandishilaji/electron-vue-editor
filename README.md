@@ -1,25 +1,45 @@
-# teste
+<p align="center">
+<img src="https://i.ibb.co/kQn1YCQ/Screen-Shot-2022-06-12-at-15-55-37.png"/>
+</p>
 
-## Project setup
-```
-npm install
+#  Descrição do projeto
+<h4>Um mini editor utilizando o <a href="https://quilljs.com">Quill Editor</a>
+</h4>
+
+# :pushpin: Tabela de conteúdos
+
+* [Tecnologias](#computer-tecnologias)
+* [Como executar](#construction-como-executar)
+* [License](#closed_book-licença)
+
+
+# :computer: Tecnologias
+Este projeto foi feito utilizando as seguintes tecnologias:
+
+* [Electron](https://www.electronjs.org/)
+* [Vue](https://vuejs.org)
+* [Node](https://nodejs.org)
+
+# :construction: Como executar
+```bash
+# Install Dependencies
+$ yarn install
+
+# Run Aplication
+$ yarn serve
+
+# Run Aplication Desktop
+$ yarn electron:serve
+
+# Run build
+$ yarn build
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# :closed_book: Licença
+Realizado em 2022 :closed_book:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Feito com carinho por [Gabriel Santos](https://github.com/biandishilaji) 🚀.
+<br>
+Esse projeto está sobe licença de [MIT license](./LICENSE).
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# electron-vue-editor
